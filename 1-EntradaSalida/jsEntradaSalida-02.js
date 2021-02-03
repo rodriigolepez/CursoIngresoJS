@@ -5,7 +5,6 @@ function mostrar()
 {
 	
 	var nombre = prompt("ingresar dato");
-	document.write("el dato ingresado es" + nombre)
-	alert("nombre");
+	alert(nombre);
 }
 
